@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.9.2</version>
+</dependency>

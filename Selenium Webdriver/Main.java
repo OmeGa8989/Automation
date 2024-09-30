@@ -7,7 +7,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class Main {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         try {
             // Make a direct HTTP request using HttpURLConnection
             URL url = new URL("https://www.geeksforgeeks.org/");
